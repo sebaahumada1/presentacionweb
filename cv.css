@@ -297,6 +297,7 @@ p{
 	}
 
 	main{
+		margin-top: -30px;
 		background-image: url("https://besthqwallpapers.com/Uploads/4-5-2020/131705/thumb2-gray-abstraction-background-gray-background-with-gold-lines-black-background-luxury-backgrounds.jpg");
 	}
 	.Skills{
@@ -308,6 +309,16 @@ p{
 	}
 	.subtitulo{
 		color: white;
+	}
+
+	.descripcionTrabajo{
+		color: white;
+		width: 100%;
+	}
+
+	.contenedor-contacto{
+		border-radius: 50px 50px 50px 50px;
+		background-color: #1A6972;
 	}
 
 }
